@@ -1,7 +1,7 @@
 # Justin Singh
 
 <code>Hello</code>
-**Hi**
+
 I am currently a Weber State University Computer Science Student interested in full stack development for the web  👋
 
 <!--
