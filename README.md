@@ -1,4 +1,6 @@
-### Hello, I am Justin Singh. I am currently a Weber State University Computer Science Student interested in full stack development for the web  👋
+### Justin Singh
+
+I am currently a Weber State University Computer Science Student interested in full stack development for the web  👋
 
 <!--
 **JS-WSU/JS-WSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
