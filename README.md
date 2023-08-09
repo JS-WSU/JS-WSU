@@ -4,11 +4,16 @@
 `Student`
 
 ![WSU Logo](https://www.weber.edu/wsuimages/brand/logos/wsu/wsu_horiz2_reverse.jpg)
-🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web.  
+### 🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web.  
 ---
-🛠 Tools and Technologies   : 
----
-💻 Projects:
+### 🛠 Tools and Technologies: 
+
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
+
+### 💻 Projects:
 ---
 * [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
 * [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
