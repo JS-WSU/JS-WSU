@@ -7,7 +7,7 @@
 ### 🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web.  
 ---
 ### 🛠 Tools and Technologies: 
-
+<iframe src="https://giphy.com/embed/t71OZ0cWs6OKi3JgVt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/t71OZ0cWs6OKi3JgVt">via GIPHY</a></p>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
