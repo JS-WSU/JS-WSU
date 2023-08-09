@@ -4,7 +4,6 @@
 `Student`
 
 ![WSU Logo](https://www.weber.edu/wsuimages/brand/logos/wsu/wsu_horiz2_reverse.jpg)
-
 🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web.  
 ---
 🔨 Tools and Technologies 🔧  : 
