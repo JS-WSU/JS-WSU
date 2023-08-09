@@ -1,22 +1,22 @@
 # Justin Singh
 
-`WSU`
-`CS`
+`WSU` 
+`CS` 
 `Student`
 
-I am currently a Weber State University Computer Science Student interested in full stack development for the web  👋
+🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web  
 
-Tools and Technologies: 
+🔨 Tools and Technologies 🔧  : 
 
-Projects:
+💻 Projects:
 
-- [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
+* [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
 
-- [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒
+* [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒
 
-- [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
+* [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
 
-- [Django IMS](https://github.com/JS-WSU/FinalProject) 🗃️ 
+* [Django IMS](https://github.com/JS-WSU/FinalProject) 🗃️ 
 
 <!--
 **JS-WSU/JS-WSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
