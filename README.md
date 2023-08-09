@@ -26,12 +26,9 @@
 
 ---
 ### 💻 Projects:
----
 * [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
 * [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
 * [Django IMS](https://github.com/JS-WSU/FinalProject) 🗃️ 
-
-
 <!-- * [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒 -->
 <!--
 **JS-WSU/JS-WSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
