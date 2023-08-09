@@ -14,7 +14,7 @@
 
 * [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
 
-* [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒
+<!-- * [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒 -->
 
 * [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
 
