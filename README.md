@@ -8,15 +8,15 @@
 🏫 I am currently a Weber State University Computer Science Student interested in full stack development for the web  
 ---
 🔨 Tools and Technologies 🔧  : 
-
+---
 💻 Projects:
-
+---
 * [MERN Speed Game](https://github.com/JS-WSU/SpeedCardGame) ♦️♥️♣️♠️ 
-
+---
 <!-- * [MERN E-commerce](https://github.com/JS-WSU/MERN-Ecommerce) 🛒 -->
 
 * [Aircraft Tracker](https://github.com/JS-WSU/AircraftTracker) ✈️
-
+---
 * [Django IMS](https://github.com/JS-WSU/FinalProject) 🗃️ 
 
 <!--
